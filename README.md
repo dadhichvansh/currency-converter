@@ -31,7 +31,7 @@ A simple and user-friendly currency converter web application that allows users 
 
 1. Clone the repository:
 ```
-git clone 
+git clone https://github.com/dadhichvansh/currency-converter.git
 ```
 2. Navigate to the project repository:
 ```
@@ -41,10 +41,10 @@ cd currency-converter
 
 ## Code Structure
 
-- index.html: The main HTML file that structures the web page.
-- styles.css: Contains all the CSS styles for the web page.
-- app.js: Handles the logic for fetching exchange rates, updating the UI, and handling user interactions.
-- curr-codes.js: Contains a list of currency codes and their corresponding country codes.
+- **\`index.html\`**: The main HTML file that structures the web page.
+- **\`styles.css\`**: Contains all the CSS styles for the web page.
+- **\`app.js\`**: Handles the logic for fetching exchange rates, updating the UI, and handling user interactions.
+- **\`curr-codes.js\`**: Contains a list of currency codes and their corresponding country codes.
 
 ## Contributing
 
